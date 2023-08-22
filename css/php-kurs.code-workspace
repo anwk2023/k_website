@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../php-kurs"
+		},
+		{
+			"path": "D:/Programmierung/JavaScript/jskurs"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/Webdesign/webentwicklermasterclass"
+		},
+		{
+			"path": "D:/Webdesign/webbootstrap/meineprogramme"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webentwicklermasterclass"
+	}
+}
